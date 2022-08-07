@@ -19,7 +19,7 @@ int main()
         cout<<" Travel Cost: ";
         cin>>travel;
 
-        cout<<"Gross Salary is :: "<<netSalary+house+medical+travel;
+        cout<<"Gross Salary is :: "<<netSalary+house+medical+travel<<endl;;
    
     return 0;
 }
@@ -32,7 +32,7 @@ net salary : 10000,
 house : 1200,
 medical : 500 ;
 travel : 1000;
-bonus : 200 
+
 
 
 output : 12900
